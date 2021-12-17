@@ -1,0 +1,26 @@
+body {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.album-grid {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1;
+}
+
+.error-text {
+  color: red;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}

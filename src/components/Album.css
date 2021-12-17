@@ -1,0 +1,7 @@
+img {
+  margin: 5px;
+}
+
+.selected {
+  border: 5px solid #1db954;
+}
