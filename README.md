@@ -7,7 +7,7 @@ This website was made to create an interactive environment for code breaking dur
 
 
 
-
+<br /> <br /> <br /> <br /> <br /> 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
