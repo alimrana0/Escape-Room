@@ -1,3 +1,14 @@
+## Overview
+
+This website was made to create an interactive environment for code breaking during a live-action escape room event. You can visit the link to the web app [here](https://escape.haji.dev/)
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
